@@ -1,0 +1,16 @@
+{
+  "modoPrivado": false,
+  "modoAdmins": {
+    "120363384828795185@g.us": false
+  },
+  "antiarabe": {
+    "120363384828795185@g.us": true,
+    "120363355113881689@g.us": true
+  },
+  "antilink": {
+    "120363384828795185@g.us": true
+  },
+  "welcome": {
+    "120363384828795185@g.us": true
+  }
+}

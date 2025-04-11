@@ -1,0 +1,25 @@
+entrypoint = "main.sh"
+modules = ["bash", "nodejs-20"]
+
+[nix]
+channel = "stable-24_05"
+
+[deployment]
+run = ["bash", "main.sh"]
+deploymentTarget = "cloudrun"
+
+[workflows]
+runButton = "Run Bot"
+
+[[workflows.workflow]]
+name = "Run Bot"
+author = 40982906
+mode = "sequential"
+
+[[workflows.workflow.tasks]]
+task = "shell.exec"
+args = "cd AZURA-ULTRA-2.0-BOT && npm start"
+
+[[ports]]
+localPort = 5000
+externalPort = 80
