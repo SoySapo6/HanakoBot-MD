@@ -16,22 +16,23 @@ HanakoBot-MD is a WhatsApp bot based on the popular Hanako Kun character. It enh
 
 ## Installation 📥
 
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/SoySapo6/HanakoBot-MD.git
-    ```
+1. Go to Replit and choose Bash and in the Terminal type
+
+   ```
+   git clone https://replit.com/@jefoge4886/HanakoBot-MD
+   ```
 
 2. Install dependencies:
     ```bash
     npm install
     ```
 
-3. Set up your WhatsApp session by following the instructions in `config.js`.
-
-4. Run the bot:
-    ```bash
-    node index.js
-    ```
+3. Then write
+   ```
+   npm start
+   ```
+4. Enjoy the Bot!
+    
 
 ## Contributing 🤝
 
