@@ -28,7 +28,8 @@ https://replit.com/@jefoge4886/HanakoBot-MD
    ```
 
 3. Start the Bot and Link it with your WhatsApp Account and Enjoy!
-    
+
+    [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?name=hanakobot-md&repository=SoySapo6%2FHanakoBot-MD&branch=main&build_command=cd+AZURA-ULTRA-2.0-BOT+%26%26+npm+install&run_command=cd+AZURA-ULTRA-2.0-BOT+%26%26+npm+start&instance_type=free&regions=was&instances_min=0&autoscaling_sleep_idle_delay=300)
 
 ## Contributing 🤝
 
