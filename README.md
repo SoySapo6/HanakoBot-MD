@@ -19,7 +19,7 @@ HanakoBot-MD is a WhatsApp bot based on the popular Hanako Kun character. It enh
 1. Go to Replit and go to this url
 
  ```
-https://github.com/SoySapo6/HanakoBot-MD.git
+https://replit.com/@jefoge4886/HanakoBot-MD
    ```
 2. Make remix and delete the Folder
 
